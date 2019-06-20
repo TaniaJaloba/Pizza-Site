@@ -1,0 +1,218 @@
+body {
+    font-family: "Montserrat" !important;
+    background: rgba(255, 255, 255, .85) !important;
+    
+}
+
+/* navigation Bar */
+
+nav.navbar  {
+    background-color: rgba(255, 255, 255, .85) !important;
+    border-bottom: 0;
+    -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1 30px rgba(0, 0, 0, 0.1);
+    padding: 10px 0;
+    margin-bottom: 0;
+    padding: 0;
+    
+    
+}
+
+a.navbar-brand {
+    color: #c94949 !important;
+    margin-left: 40px;
+    font-size: 25px;
+    letter-spacing: 2px;
+    
+
+}
+
+a.nav-link {
+    text-decoration: none;
+    color:#222;
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+a.nav-link:hover{
+    color: #c94949;
+    border-bottom: 1px solid #c94949;
+}
+
+.icontext{
+    color: #222;
+    font-weight: bold;
+    font-size: 17px;
+   
+
+} 
+
+.icontext:hover{
+    color:  #c94949;
+    border-bottom: 1px solid #c94949;
+}
+
+.icon-wrap{
+    border: 2px solid #c94949;
+    background-color: #c94949;
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+}
+
+.icon-wrap:hover{
+    border: 2px solid #c94949;
+    background-color:  #c94949;
+    border-radius: 50%;
+}
+
+
+ul.nav.navbar{
+    margin: 1px 0px 1px 250px;
+}
+
+a.nav-link{
+margin: 20px;
+}
+
+.intro {
+    background-size: cover;
+    background-position: bottom;
+    min-height: 650px;
+     
+}
+
+
+
+h2.display-3, p.lead{
+    margin-left: 40px;
+    
+}
+
+.btn.btn-lg.btn-primary{
+margin-left: 40px;
+}
+
+.colorslide{
+    background-color: #242323;
+}
+
+.texts{
+    text-align: center;
+    margin: 20px;
+    letter-spacing: 3px;
+    font-size: 20px;
+    color: #222;
+    border-top: 1px solid #c94949;
+    
+}
+
+.price{
+    margin-bottom: 10px;
+    color: #242323 !important;
+    font-weight: bold;
+    border-bottom: 1px solid #242323;
+}
+
+h6 {
+    color: #c94949 !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    margin: 12px !important;
+}
+
+.menu-full{
+    margin-left: 590px;  
+}
+
+.main-menu{
+    height: auto;
+    max-width: 100%;
+    border: 1px solid #242323;
+    text-align: center;
+    
+}
+ 
+
+
+.intro{
+    background-image: url('../images/pizza7.jpg');
+    background-position: cover;
+    height: auto;
+    width: 100%;
+}
+ 
+.pizzamenutxt{
+    margin-left: 350px;
+
+}
+
+
+
+
+.footerspace{
+    margin-top: 55px;
+}
+
+/* product description */
+.maylike{
+    color: #c94949;
+    font-weight: bold;
+}
+
+.space{
+    margin-bottom: 140px;
+}
+.txtdescription{
+margin: 50px 0px;
+}
+
+.alertlink{
+color: #c94949
+}
+
+.alertlink:hover{
+    color:#c94949;
+    font-size: 21px;
+    border: 2px solid;
+}
+
+.crumbstyle:hover{
+    border-bottom: 1px solid;
+}
+
+.navstyle{
+    border-bottom: 4px solid #c94949 !important;
+}
+
+.signstyle{
+    margin-bottom: 70px;
+    
+}
+
+.map-container-section {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height:0;
+  }
+  .map-container-section iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+  
+  .md-form i, .ic i {
+      background: #c94949;
+      padding: 10px;
+      border-radius: 4px;
+      color: #fff;
+  }
+
+  /* shopping card */
+
+  
